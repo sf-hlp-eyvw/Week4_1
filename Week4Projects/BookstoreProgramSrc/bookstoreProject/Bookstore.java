@@ -1,0 +1,5 @@
+package bookstoreProject;
+
+class Bookstore {
+
+}
