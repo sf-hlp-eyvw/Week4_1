@@ -14,8 +14,9 @@ public class BookstoreTest {
 	}
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void testCalculateTotalPriceOfBooksInBookStore() {
+		assertEquals(266, bookstore.calculateTotalPriceOfBooksInStore());
 	}
 
+	
 }
